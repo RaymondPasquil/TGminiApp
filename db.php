@@ -1,7 +1,7 @@
 // db.php
 <?php
 $host = 'localhost';
-$dbname = 'htmlhero';  
+$dbname = 'tgminiapp';  
 $username = 'root';  
 $password = '';  
 
